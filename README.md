@@ -1,4 +1,5 @@
-[![Twitter/eitozx](https://pbs.twimg.com/profile_banners/1306218599854432257/1654065698/1500x500)](https://eitozx.github.io)
+[![@eitozx's Holopin board](https://holopin.me/eitozx)](https://holopin.io/@eitozx)
+
 
 # Hi 👋 I'm [Prashant | Eito (/eitozx)❄️](https://eitozx.github.io)
 
@@ -6,7 +7,7 @@
 {
   "name" : "Prashant Singh",
   "pronouns" : "He/Him",
-  "role" : ["BTech Student", "Freelancer", "Backend Developer", "Graphic Designer"],
+  "role" : ["Full Stack Python Developer", "Graphic Designer", "Freelancer", "B.Tech Student"],
   "tech_stack" : {
     "os" : "Zorin OS PRO",
     "editor" : "Visual Studio Code",
@@ -34,11 +35,11 @@
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eitozx.github.io) -->
 [![Discord](https://discord.c99.nl/widget/theme-3/981649911151992832.png)](https://discord.com/users/981649911151992832)
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=eitozx&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white)
-![](https://custom-icon-badges.herokuapp.com/github/followers/eitozx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white%22/%3E%3C/a%3E%20%3Ca%20href=%22https://github.com/giingu)
-![](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Feitozx)
+[![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=eitozx&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white)](https://github.com/eitozx)
+[![](https://custom-icon-badges.herokuapp.com/github/followers/eitozx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white%22/%3E%3C/a%3E%20%3Ca%20href=%22https://github.com/giingu)](https://github.com/eitozx?tab=followers)
+[![](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Feitozx)](https://github.com/eitozx?tab=repositories&sort=stargazers)
 
-## ⭐ My top open-source projects
+## ⭐ My top projects
 
 [![eitozx/AkitoBot](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=AkitoBot&theme=react)](https://github.com/eitozx/AkitoBot)
 [![eitozx/kitsu](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=kitsu&theme=react)](https://github.com/eitozx/kitsu)
@@ -57,14 +58,7 @@
 [![ArjunSharda/Countey](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArjunSharda&repo=Countey&theme=react)](https://github.com/ArjunSharda/Countey)
 
 ## 📈 Github Stats
-
-<details> 
-  <summary>💻 Profile Stats</summary>
+> *The following stats do not count my private contributions.*
 
 [![Streak Stats](http://github-readme-streak-stats.herokuapp.com/?user=eitozx&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/eitozx)
 [![Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=eitozx&show_icons=true&include_all_commits=true&count_private=true&theme=react)](https://github.com/eitozx)[![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eitozx&langs_count=8&layout=compact&theme=react)](https://github.com/eitozx)
-
-</details>
-
-
-[![Contribution Graph](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=eitozx&bg_color=1F222E&color=F8D866&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/eitozx)

@@ -42,6 +42,7 @@
 ## ⭐ My top projects
 
 [![eitozx/AkitoBot](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=AkitoBot&theme=react)](https://github.com/eitozx/AkitoBot)
+[![eitozx/Netflix-Clone](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=Netflix-Clone&theme=react)](https://github.com/eitozx/Netflix-Clone)
 [![eitozx/kitsu](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=kitsu&theme=react)](https://github.com/eitozx/kitsu)
 [![eitozx/animu](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=animu&theme=react)](https://github.com/eitozx/Animu)
 

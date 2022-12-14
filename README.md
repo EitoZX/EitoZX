@@ -11,12 +11,3 @@
 [![iameitozx@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:iameitozx@gmail.com)
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eitozx.github.io) -->
-
-## ⭐ My top projects
-
-[![eitozx/AkitoBot](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=AkitoBot&theme=react)](https://github.com/eitozx/AkitoBot)
-[![eitozx/Netflix-Clone](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=Netflix-Clone&theme=react)](https://github.com/eitozx/Netflix-Clone)
-[![eitozx/kitsu](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=kitsu&theme=react)](https://github.com/eitozx/kitsu)
-[![eitozx/animu](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eitozx&repo=animu&theme=react)](https://github.com/eitozx/Animu)
-
-[![All Repositories](https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/eitozx?tab=repositories&sort=stargazers)

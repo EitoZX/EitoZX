@@ -1,6 +1,6 @@
 # Hi 👋 I'm [Eito (/eitozx)❄️](https://eitozx.github.io)
 
-- Discord Bot Engineer [@BadBears](https://badbears.io)
+- Watching [@ZoroAnimeXyz](https://github.com/zoroanimexyz)
 - Freelance Full Stack Python Developer.
 - I make Discord Bots, Websites, API(s) & more.
 

@@ -1,6 +1,6 @@
 # Hi 👋 I'm [Eito (/eitozx)❄️](https://eitozx.github.io)
 
-[![Discord](https://discord.c99.nl/widget/theme-3/981649911151992832.png)](https://discord.com/users/981649911151992832)
+[![Discord](https://discord.c99.nl/widget/theme-3/1150051452220362782.png)](https://discord.com/users/1150051452220362782)
 
 [![iameitozx@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:iameitozx@gmail.com)
